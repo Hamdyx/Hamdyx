@@ -3,3 +3,5 @@
 - :rocket::zap: I’m currently learning mongoDB, also getting more comfortable with node.js to complete MERN stack
 - 💻 I’m looking to collaborate on open source projects
 - :construction_worker: Let's write some javascript
+### 🧑‍💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,express,nodejs,py,solidity,html,css,scss,bootstrap,tailwind,git,mongo,sqlite,mysql,jenkins,jest,jquery,figma,linux,netlify,vercel)](https://skillicons.dev)
